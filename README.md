@@ -1,10 +1,7 @@
-## Hey, I'm [Zeyad!](https://zeyadomran.com) 👋🏽   
+## Hey, I'm Zeyad! 👋🏽   
 
 <a href="https://linkedin.com/in/zeyadomran" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/zeyadomran" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 ### About me ⚡️  
@@ -37,11 +34,11 @@ A 5th year computer science undergraduate student with over 8 years of programmi
 ## Github Stats 🕹
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadomran&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=zeyadomran&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadomran&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zeyadomran&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
