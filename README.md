@@ -5,7 +5,7 @@
 </a>
 
 ### About me ⚡️  
-A 5th year computer science undergraduate student with over 8 years of programming experience with various technologies. A passionate developer & skilled leader with experience in leading small & medium sized teams from the start of a project to its completion. Proficient in multiple programming languages and familiar with various full stack technologies that aid me in building complex web applications and mentor other developers that are looking to learn new things.
+Curious software developer. I like building web products end to end and experimenting with AI agents — multi-agent orchestration, MCP servers, and AI-assisted dev workflows — to learn how they work.
 
 ## Languages and Tools 🛠
 <div align="center">  
